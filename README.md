@@ -168,7 +168,6 @@ Pay attention: To test, you need to build the server first and then the client.
 * [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 * [SignalR](https://docs.microsoft.com/en-us/aspnet/core/tutorials/signalr?view=aspnetcore-6.0&tabs=visual-studio)
 * [Serilog](https://serilog.net/)
-* ~~coffee, pizza and late nights~~
 
 ## My contacts
 * [LinkedIn](https://www.linkedin.com/in/henry-saldanha-3b930b98/)
