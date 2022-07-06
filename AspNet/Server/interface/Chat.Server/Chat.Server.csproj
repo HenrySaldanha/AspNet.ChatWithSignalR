@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<RunPostBuildEvent>Always</RunPostBuildEvent>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\..\application\Application\Application.csproj" />
+		<ProjectReference Include="..\..\infra\Dependencies\Dependencies.csproj" />
+	</ItemGroup>
+
+</Project>
