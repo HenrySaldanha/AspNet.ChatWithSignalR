@@ -16,11 +16,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chat.Server", "interface\Ch
 		{8C6BA8E6-4511-4F93-AA91-63C9B3BDB25A} = {8C6BA8E6-4511-4F93-AA91-63C9B3BDB25A}
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{0E0AF931-0157-4786-889F-5C1DC37DF20D}"
-	ProjectSection(SolutionItems) = preProject
-		README.md = README.md
-	EndProjectSection
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dependencies", "infra\Dependencies\Dependencies.csproj", "{8C6BA8E6-4511-4F93-AA91-63C9B3BDB25A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "domain\Domain\Domain.csproj", "{8E91ED7F-4CD5-4C5D-8A11-6A0BAF654157}"

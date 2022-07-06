@@ -18,11 +18,7 @@ public class ChatHub : Hub
 
         Clients.All.SendAsync("newMessage", userName, message);
 
-        Messages.Add(new Message
-        {
-            Text = message,
-            UserName = userName
-        });
+        Messages.Add(new Message(userName, message));
     }
 
     public void NewUser(string userName, string connectionId)
