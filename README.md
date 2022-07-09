@@ -150,7 +150,7 @@ In my ClientHub class I set the same server methods: newUser, newMessage and pre
             }
             catch
             {
-                Console.WriteLine($"Ocorreu um erro ao enviar a mensagem");
+                Console.WriteLine($"There was an error sending a message");
             }
         }
     }
