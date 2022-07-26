@@ -1,4 +1,4 @@
-This repository aims to present a simple implementation of the **SignalR**
+This repository aims to present a simple implementation of the **SignalR**.
 
 # 1. Server
 ## Settings
