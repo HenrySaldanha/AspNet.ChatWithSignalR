@@ -19,7 +19,7 @@ The configuration below adds **SignalR** to our project and configures our hub's
     }
     
 ## ChatHub class implementation
-The **ChatHub** class read creates the communication between the client and the server.
+The **ChatHub** class creates the communication between the client and the server.
 
     public class ChatHub : Hub
     {
